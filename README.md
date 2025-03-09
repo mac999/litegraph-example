@@ -1,7 +1,7 @@
 # Litegraph App Example
 
 This project is a custom application built using the LiteGraph library. It allows users to create and manipulate graphs with custom nodes for various operations, including multiplication and visual data processing.
-<img src=""></img>
+<img src="https://github.com/mac999/litegraph-example/blob/main/img1.PNG?raw=true"></img>
 
 ## Description
 
