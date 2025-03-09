@@ -1,6 +1,7 @@
-# Lite Graph App Example
+# Litegraph App Example
 
 This project is a custom application built using the LiteGraph library. It allows users to create and manipulate graphs with custom nodes for various operations, including multiplication and visual data processing.
+<img src=""></img>
 
 ## Description
 
