@@ -1,6 +1,6 @@
 # Litegraph App Example
 
-This project is a custom application built using the LiteGraph library. It allows users to create and manipulate graphs with custom nodes for various operations, including multiplication and visual data processing.
+This project is a custom application built using the LiteGraph library. It allows users to create and manipulate graphs with custom nodes for various operations, including multiplication and visual data processing. In detail, refer to [Visual Flow Programming](https://daddynkidsmakers.blogspot.com/2021/05/nodejs-visual-flow-programming.html)
 <img src="https://github.com/mac999/litegraph-example/blob/main/img1.PNG?raw=true"></img>
 
 ## Description
